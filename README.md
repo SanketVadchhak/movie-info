@@ -1,7 +1,5 @@
 # Movie Info (ACE Movie)
 
-[Live Demo](https://sanketvadchhak.github.io/movie-info/)
-
 ## About
 
 Movie Info is a React-based web application built with Vite that allows users to browse and explore information about movies. The project demonstrates a modern frontend setup using React 19, React Router, and Vite's fast development and build tooling.
